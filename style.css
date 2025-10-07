@@ -1,0 +1,47 @@
+body {
+    background-color: coral;
+    color: teal;
+}
+
+#title {
+    background-color: teal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+    font-family:'Courier New', monospace, sans-serif;
+    font-weight: bold;
+}
+
+
+.header {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    font-size: 45px;
+    font-style: italic;
+}
+
+hr {
+    border-color: teal;
+    height: 0px;
+}
+
+.text {
+    text-align: center;
+    font-size: 25px;
+
+    background-color: white;
+    border-color: teal;
+    color: teal;
+    
+}
+
+ul {
+    margin-left: 45%;
+
+    font-size: 25px;
+}
